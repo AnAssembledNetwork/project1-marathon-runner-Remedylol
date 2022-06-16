@@ -24,7 +24,7 @@ def fitness():
 
     # This ignores our code so that we do not get an error Remove 'pass' when you want to start testing code.
     
-    pass
+    print("hello world")
     
 
 # This invokes the main function.  It is always included in our
